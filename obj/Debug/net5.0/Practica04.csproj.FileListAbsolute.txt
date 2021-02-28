@@ -1,0 +1,5 @@
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 4\Practica04\obj\Debug\net5.0\Practica04.csprojAssemblyReference.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 4\Practica04\obj\Debug\net5.0\Practica04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 4\Practica04\obj\Debug\net5.0\Practica04.AssemblyInfoInputs.cache
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 4\Practica04\obj\Debug\net5.0\Practica04.AssemblyInfo.cs
+C:\Users\Rosa Estevez\Desktop\5to cuatrimestre\programacion\Tarea 4\Practica04\obj\Debug\net5.0\Practica04.csproj.CoreCompileInputs.cache
